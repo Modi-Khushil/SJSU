@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "777626876086",
+    "project_id": "hotel-dragonites-f13a8",
+    "storage_bucket": "hotel-dragonites-f13a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777626876086:android:f4f1d17462980c677ace17",
+        "android_client_info": {
+          "package_name": "com.example.hoteldragonites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777626876086-n2dml7khkbu3n7mv174ou38ctqaqogbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHfu4tdBaPtNKMCBokTe9bLsS9itdtgk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777626876086-n2dml7khkbu3n7mv174ou38ctqaqogbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777626876086:android:3b2cb90e08564d377ace17",
+        "android_client_info": {
+          "package_name": "com.example.surface.hotelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777626876086-n2dml7khkbu3n7mv174ou38ctqaqogbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHfu4tdBaPtNKMCBokTe9bLsS9itdtgk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777626876086-n2dml7khkbu3n7mv174ou38ctqaqogbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
